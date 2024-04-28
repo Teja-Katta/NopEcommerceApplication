@@ -1,0 +1,75 @@
+11:52:27.003 [main] INFO  testCases.TC_007 - validation starting....
+11:52:27.047 [main] INFO  testCases.TC_007 - Test got pass...
+11:52:29.921 [main] INFO  testCases.TC_008 - Test starting...
+11:52:29.922 [main] INFO  testCases.TC_008 - Click action on the register button...
+11:52:31.104 [main] INFO  testCases.TC_008 - select male gender
+11:52:31.244 [main] INFO  testCases.TC_008 - Provide first name
+11:52:31.390 [main] INFO  testCases.TC_008 - Provide last name
+11:52:31.540 [main] INFO  testCases.TC_008 - Select date
+11:52:31.743 [main] INFO  testCases.TC_008 - Select month
+11:52:31.917 [main] INFO  testCases.TC_008 - Select year
+11:52:32.078 [main] INFO  testCases.TC_008 - Provide email address
+11:52:32.200 [main] INFO  testCases.TC_008 - Enter company name
+11:52:32.346 [main] INFO  testCases.TC_008 - set password
+11:52:32.474 [main] INFO  testCases.TC_008 - Set confirm password
+11:52:32.610 [main] INFO  testCases.TC_008 - Click on the submit button
+11:52:33.640 [main] INFO  testCases.TC_008 - Registration validate with success message.
+11:52:36.287 [main] INFO  testCases.TC_008 - Test got pass...
+11:52:39.249 [main] INFO  testCases.TC_009 - Test starting...
+11:52:39.250 [main] INFO  testCases.TC_009 - Click action on the register button...
+11:52:40.048 [main] INFO  testCases.TC_009 - select male gender
+11:52:40.177 [main] INFO  testCases.TC_009 - Provide first name
+11:52:40.311 [main] INFO  testCases.TC_009 - Provide last name
+11:52:40.446 [main] INFO  testCases.TC_009 - Select date
+11:52:40.630 [main] INFO  testCases.TC_009 - Select month
+11:52:40.793 [main] INFO  testCases.TC_009 - Select year
+11:52:40.975 [main] INFO  testCases.TC_009 - Provide email address
+11:52:41.110 [main] INFO  testCases.TC_009 - Enter company name
+11:52:41.263 [main] INFO  testCases.TC_009 - set password
+11:52:41.411 [main] INFO  testCases.TC_009 - Set confirm password
+11:52:41.570 [main] INFO  testCases.TC_009 - Click on the submit button
+11:52:42.586 [main] INFO  testCases.TC_009 - Registration validate with success message.
+11:52:44.873 [main] INFO  testCases.TC_009 - Test got pass...
+11:52:48.248 [main] INFO  testCases.TC_010 - Test Starting...
+11:52:49.058 [main] INFO  testCases.TC_010 - Clicked on the login menu button...
+11:52:49.227 [main] INFO  testCases.TC_010 - User Name Provided....
+11:52:49.360 [main] INFO  testCases.TC_010 - Password provided
+11:52:49.899 [main] INFO  testCases.TC_010 - click action on the Login button
+11:52:49.900 [main] INFO  testCases.TC_010 - Validation starting
+11:52:50.054 [main] INFO  testCases.TC_010 - Test got pass...
+11:52:52.540 [main] INFO  testCases.TC_011 - Test starting...
+11:52:52.543 [main] INFO  testCases.TC_011 - Click action on the register button...
+11:52:53.533 [main] INFO  testCases.TC_011 - select male gender
+11:52:53.711 [main] INFO  testCases.TC_011 - Provide first name
+11:52:53.838 [main] INFO  testCases.TC_011 - Provide last name
+11:52:53.961 [main] INFO  testCases.TC_011 - Select date
+11:52:54.136 [main] INFO  testCases.TC_011 - Select month
+11:52:54.292 [main] INFO  testCases.TC_011 - Select year
+11:52:54.453 [main] INFO  testCases.TC_011 - Provide email address
+11:52:54.585 [main] INFO  testCases.TC_011 - Enter company name
+11:52:54.735 [main] INFO  testCases.TC_011 - set password
+11:52:54.870 [main] INFO  testCases.TC_011 - Set confirm password
+11:52:55.010 [main] INFO  testCases.TC_011 - Click on the submit button
+11:52:56.029 [main] INFO  testCases.TC_011 - Registration validate with success message.
+11:53:04.410 [main] INFO  testCases.TC_011 - Test got pass...
+11:53:08.519 [main] INFO  testCases.TC_012 - Test starting...
+11:53:08.520 [main] INFO  testCases.TC_012 - Click action on the register button...
+11:53:09.324 [main] INFO  testCases.TC_012 - select male gender
+11:53:09.471 [main] INFO  testCases.TC_012 - Provide first name
+11:53:09.606 [main] INFO  testCases.TC_012 - Provide last name
+11:53:09.730 [main] INFO  testCases.TC_012 - Select date
+11:53:09.920 [main] INFO  testCases.TC_012 - Select month
+11:53:10.088 [main] INFO  testCases.TC_012 - Select year
+11:53:10.253 [main] INFO  testCases.TC_012 - Provide email address
+11:53:10.388 [main] INFO  testCases.TC_012 - Enter company name
+11:53:10.553 [main] INFO  testCases.TC_012 - set password
+11:53:10.706 [main] INFO  testCases.TC_012 - Set confirm password
+11:53:10.848 [main] INFO  testCases.TC_012 - Click on the submit button
+11:53:11.897 [main] INFO  testCases.TC_012 - Registration validate with success message.
+11:53:12.527 [main] INFO  testCases.TC_012 - Clicked on the Continue button.
+11:53:13.294 [main] INFO  testCases.TC_012 - Click on the Continue button.
+11:53:13.432 [main] INFO  testCases.TC_012 - email provided
+11:53:13.584 [main] INFO  testCases.TC_012 - password provided
+11:53:14.482 [main] INFO  testCases.TC_012 - click on the Login button.
+11:53:15.199 [main] INFO  testCases.TC_012 - click on the books menu button.
+11:53:15.360 [main] INFO  testCases.TC_012 - click on the product wishlist button.
